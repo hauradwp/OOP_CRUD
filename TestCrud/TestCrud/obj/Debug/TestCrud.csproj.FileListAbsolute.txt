@@ -1,0 +1,11 @@
+D:\BOOTCAMP\TestCrud\TestCrud\bin\Debug\database.accdb
+D:\BOOTCAMP\TestCrud\TestCrud\bin\Debug\TestCrud.exe.config
+D:\BOOTCAMP\TestCrud\TestCrud\bin\Debug\TestCrud.exe
+D:\BOOTCAMP\TestCrud\TestCrud\bin\Debug\TestCrud.pdb
+D:\BOOTCAMP\TestCrud\TestCrud\obj\Debug\TestCrud.csproj.AssemblyReference.cache
+D:\BOOTCAMP\TestCrud\TestCrud\obj\Debug\TestCrud.Form1.resources
+D:\BOOTCAMP\TestCrud\TestCrud\obj\Debug\TestCrud.Properties.Resources.resources
+D:\BOOTCAMP\TestCrud\TestCrud\obj\Debug\TestCrud.csproj.GenerateResource.cache
+D:\BOOTCAMP\TestCrud\TestCrud\obj\Debug\TestCrud.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\TestCrud\TestCrud\obj\Debug\TestCrud.exe
+D:\BOOTCAMP\TestCrud\TestCrud\obj\Debug\TestCrud.pdb
